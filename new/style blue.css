@@ -1,0 +1,128 @@
+#square{
+    background-color: aqua;
+    width: 1530px;
+    height: 730px;
+    opacity: 0.0;
+    border: solid 20px;
+    border-color: black;
+    
+}
+#square1{
+    background-color: transparent;
+    width: 1392px;
+    height: 730px;
+    opacity: 0.;
+    border: solid 5px;
+    border-color: black;
+    position: relative; top: -770px;
+    
+}
+#nike{
+    position: relative; top: -1400px; left: 530px;
+    width: 780px;  
+    rotate: -23deg;
+}
+#btn-red{
+    position: relative; top: -1500px; left: -756px; 
+    background-color: rgb(149, 191, 211);
+    width: 200px;
+    height: 70px;
+    border-color: rgb(161, 193, 207);
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bolder;
+}
+#air{
+   position: relative;  top: -1890px; left: 50px;
+   font-size: 60px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: bolder;
+}
+#p1{
+    position: relative;  top: -1900px; left: 50px; 
+    font-size: 20px;
+    font-weight: lighter;
+}
+#logo{
+    position: relative; top: -2190px; left: -310px;
+    width: 100px;
+    height: 30px;
+}
+#btn-outline{
+    background-color: transparent;
+    width: 60px;
+    height: 30px;
+    border: solid 2px;
+    border-color: grey;
+    position: relative; top: -1750px; left: 1000px;
+    text-align: center;
+}
+#btn-outline1{
+    background-color: transparent;
+    width: 60px;
+    height: 30px;
+    border: solid 2px;
+    border-color: grey;
+    position: relative; top: -1784px; left: 940px;
+    text-align: center;
+}
+#btn-outline2{
+    background-color: transparent;
+    width: 60px;
+    height: 30px;
+    border: solid 2px;
+    border-color: grey;
+    position: relative; top: -1818px; left: 1060px;
+    text-align: center;
+}
+#btn-outline3{
+    background-color: transparent;
+    width: 60px;
+    height: 30px;
+    border: solid 2px;
+    border-color: grey;
+    position: relative; top: -1852px; left: 1186px;
+    text-align: center;
+}
+#btn-outline4{
+    background-color: transparent;
+    width: 60px;
+    height: 30px;
+    border: solid 2px;
+    border-color: grey;
+    position: relative; top: -1886px; left: 880px;
+    text-align: center;
+}
+#btn-outline5{
+    background-color: transparent;
+    width: 60px;
+    height: 30px;
+    border: solid 2px;
+    border-color: grey;
+    position: relative; top: -1920px; left: 1122px;
+    text-align: center;
+}
+#btn-blue{
+    position: relative; top: -1870px; left: 960px;
+    border-radius: 50px;  
+    width: 30px;
+    height: 30px;
+    background-color: rgb(149, 191, 211);
+   border-color: rgb(149, 191, 211); 
+}
+#btn-grey{
+    position: relative; top: -1870px; left: 856px;
+    border-radius: 50px;  
+    width: 30px;
+    height: 30px;
+    background-color: grey;
+   border-color: grey; 
+}
+#btn-red1{
+    position: relative; top: -1870px; left: 851px;
+    border-radius: 50px;  
+    width: 30px;
+    height: 30px;
+    background-color: red;
+   border-color: red;
+}
